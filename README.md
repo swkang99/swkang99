@@ -5,7 +5,7 @@
 -->
 <p align="center">
   <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=swkang99&count_private=true&show_icons=true&theme=darcula&hide_title=true" />
-  <img width="45%"  src="https://github-readme-streak-stats.herokuapp.com/?user=swkang99&theme=dark" />
+  <img width="45%"  src="https://github-readme-streak-stats.herokuapp.com/?user=swkang99&theme=dark&background=242424" />
 </p>
 <!--
 **swkang99/swkang99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
